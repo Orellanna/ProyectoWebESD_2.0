@@ -1,0 +1,14 @@
++Portada
+-Introduccion
++Objetivos General y Especifico
+- Alcances
+-Descripcion del Tema
+- Resultados Esperados.
+-Planteamiento del Problema.
+-Analisis
++Diseño
++Listado de Programas
++Pruebas
+-Guia del usuario.
+- Conclusiones
+-Bibliografia.
